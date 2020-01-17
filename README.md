@@ -11,8 +11,8 @@
 
   <br>
   
-  <a href="https://heroku.com/deploy?template=https://github.com/kyb3r/modmail">
-    <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge&logo=Heroku">
+  <a href="https://top.gg/api/widget/270904126974590976.svg?usernamecolor=FFFFFF&topcolor=000000">
+    <img src="https://top.gg/api/widget/270904126974590976.svg?usernamecolor=FFFFFF&topcolor=000000">
   </a>
 
   <a href="https://github.com/kyb3r/modmail/">
